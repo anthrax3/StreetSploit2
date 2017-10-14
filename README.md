@@ -8,10 +8,4 @@ Runs in NTR/NDS mode. This exploit works on any of the Nintendo DS families.
 * Linux: `./STREET2FIX street2save.sav`
 ###
 ## Triggering the exploit
-Navigate to the following:
-###
-> My Street
-###
-> Profile
-###
-> Edit my Profile
+Navigate to _"My Street"_, go to _"Profile"_, then go to _"Edit my Profile"_
