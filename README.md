@@ -1,7 +1,8 @@
 # StreetSploit2
-Aonther successful attempt to runNTR-Mode unsigned code execution for FIFA STREET 2 (US) for the NDS
+Aonther successful attempt to run NTR-Mode unsigned code execution for FIFA STREET 2 for the NDS
+The exploit only works for the US region. 
 
-Runs in NTR/NDS mode. This exploit works on any of the Nintendo DS families.
+Runs in NTR/NDS mode. This exploit works on any of the Nintendo DS families including emulators.
 ###
 ## Usage for patching the savefile
 * Win32: `STREET2FIX street2save.sav`
