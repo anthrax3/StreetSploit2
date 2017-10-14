@@ -9,6 +9,9 @@ Runs in NTR/NDS mode. This exploit works on any of the Nintendo DS families.
 ###
 ## Triggering the exploit
 Navigate to the following:
+###
 > "My Street"
+###
 > "Profile"
+###
 > "Edit my Profile"
