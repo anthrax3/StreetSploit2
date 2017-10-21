@@ -11,6 +11,8 @@ Runs in NTR/NDS mode. This exploit works on any of the Nintendo DS families incl
 ###
 ## Triggering the exploit
 Navigate to _"My Street"_, go to _"Profile"_, then go to _"Edit my Profile"_
+![alt text](http://url/to/img.png)
+
 ## Credits:
 * jerbear64 (Testing the exploit for retail)
 * JAFE repo CRCFix Code (TO BE ADDED SOON)
