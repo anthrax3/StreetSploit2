@@ -1,4 +1,4 @@
-# StreetSploit2
+# StreetSploit2 (FIFA STREET 2 NDS Exploit)
 <img src="https://cdn.discordapp.com/attachments/368785644173918210/368787222889234432/IMG_20171014_114826.jpg" width="320">
 Another successful attempt to exploit FIFA STREET 2 for the Nintendo DS to execute unsigned code from the savegame.
 
